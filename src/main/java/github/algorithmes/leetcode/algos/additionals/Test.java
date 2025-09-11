@@ -9,8 +9,6 @@ public class Test {
 
     public static void main(String[] args) {
 
-//        System.out.println(reverseS("helloasf"));
-//        int[] arr = {5, 4, 3, 2, 1};
 //        int res = maxProductDifference(arr);
 //        List<Integer> brr = new ArrayList<>();
 //        brr.add(10);
